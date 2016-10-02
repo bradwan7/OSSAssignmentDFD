@@ -2,4 +2,5 @@
 
 Data flow diagram for class project
 
-![alt text](https://cloud.githubusercontent.com/assets/22142552/18447914/41d2ec8c-78ee-11e6-8620-3f4f4c1149ac.JPG)
+![alt text](https://cloud.githubusercontent.com/assets/22142552/19023076/247607c4-88ab-11e6-9749-2d1e04fbf29f.png)
+
