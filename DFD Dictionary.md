@@ -14,7 +14,7 @@
 
 8. Vulnerabilities Results: The vulerability results from the software package.
 
-9. NIST DB: A database for the vulnerabilities.
+9. NIST DB: A database that holds the vulnerabilities.
 
 10. Licenses and Vulnerabilities DB: A database that holds the licenses and vulnerabilities.
 
@@ -29,3 +29,11 @@
 15. Request to Modify Policy Documents: The request to modify policy documents.
 
 16. Results of Modified and Add Policy Documents: The results of the requested modify and add policy documents.
+
+17. Get Policy: Gets the policy docouments.
+
+18. Request Policy Documents: The request of policy documents.
+
+19. Results of Requested Policy Documents: The results of the requested policy documents.
+
+20. Policy DB: A database that holds the policy documents.
