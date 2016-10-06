@@ -1,4 +1,4 @@
-1. Developer: The individual that submits the softwar package.
+1. Developer: The individual who submits the softwar package.
 
 2. Software Package: The file that conatains licesnces and vulnarbilities.
 
@@ -10,4 +10,23 @@
 
 6. Scan Software Package for Licences: A process that checks the software package for licenses.
 
-7. Software Package Licensing Re
+7. Software Package Licensing Results: The licensing reults from the software package.
+
+8. Vulnerabilities Results: The vulerability results from the software package.
+
+9. NIST DB: A database for the vulnerabilities.
+
+10. Licenses and Vulnerabilities DB: A database that holds the licenses and vulnerabilities.
+
+11. Request for Licenses and Vulnerabilities Information: A request to retrieve the licenses and vulnerabilities information.
+
+12. Get Licenses and Vulnerabilities Information: A process that gets the licenses and vulnerabilities information.
+
+13. Manager: The individual who manages the process.
+
+14. Request to Add Policy Documents: The request to add policy documents.
+
+15. Request to Modify Policy Documents: The request to modify policy documents.
+
+16. Results of Modified and Add Policy Documents: The results of the requested modify and add policy documents.
+
