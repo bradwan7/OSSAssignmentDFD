@@ -1,0 +1,13 @@
+1. Developer: The individual that submits the softwar package.
+
+2. Software Package: The file that conatains licesnces and vulnarbilities.
+
+3. Licenses and Vulnerabilites Results: The results of licences and vulnerabilities.
+
+4. Manage Sofware Package for License and Vulnerabilities Scanning: The process were the software package that is sent by the developer gets sent to be checked for licenses and vulnerabilities.
+
+5. Check for Vulnerabilites: A process that checks the software package for vulnerabilites.
+
+6. Scan Software Package for Licences: A process that checks the software package for licenses.
+
+7. Software Package Licensing Re
