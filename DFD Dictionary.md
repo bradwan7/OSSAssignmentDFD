@@ -1,3 +1,5 @@
+Include Headings of Entities, Processes, Data Flows, and Data Stores. Then put the appropriate items under these headings. Make sure you check your spelling on a few of the things. 
+
 1. Developer: The individual who submits the softwar package.
 
 2. Software Package: The file that conatains licesnces and vulnarbilities.
