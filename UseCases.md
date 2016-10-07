@@ -1,3 +1,5 @@
+These are not done. Follow the guidelines in the slides
+
 1. The Mananger can request to add policy documents.
 
 2. The Manager can modify policy documents.
