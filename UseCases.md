@@ -6,15 +6,15 @@
 
 • Stakeholders:
 
-   Manager: To receive clear and relevant licenses and vulnerabilities project information.
+   -Manager: To receive clear and relevant licenses and vulnerabilities project information.
 
-   Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package.
 
 • Preconditions:
 	
-   Relevant package information is in the licenses and vulnerabilities.
+   -Relevant package information is in the licenses and vulnerabilities.
 
-   Proper software package has been submitted.
+   -Proper software package has been submitted.
 
 • Main Success Scenario: Manager receives accurate licenses and vulnerabilities information for the requested project package.
 
@@ -33,15 +33,15 @@
 
 • Stakeholders:
 
-   Manager: To receive clear and relevant licenses and vulnerabilities project information.
+   -Manager: To receive clear and relevant licenses and vulnerabilities project information.
    
-   Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package.
 
 • Preconditions:
 
-   Relevant package information is in the licenses and vulnerabilities.
+   -Relevant package information is in the licenses and vulnerabilities.
    
-   Proper software package has been submitted.
+   -Proper software package has been submitted.
 
 • Main Success Scenario: Developer receives accurate licenses and vulnerabilities information for the requested project package.
 
@@ -60,15 +60,15 @@
 
 • Stakeholders:
 
-   Manager: To receive clear and relevant policy documents information.
+   -Manager: To receive clear and relevant policy documents information.
 
-   Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package.
 
 • Preconditions:
 
-   Relevant package information is in policy documents.
+   -Relevant package information is in policy documents.
 
-   Proper software package has been submitted.
+   -Proper software package has been submitted.
 
 • Main Success Scenario: Manager receives accurate policy documents information for the requested package.
 
