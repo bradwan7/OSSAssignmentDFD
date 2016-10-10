@@ -10,6 +10,7 @@
 • Preconditions:
 	
 Relevant package information is in the licenses and vulnerabilities.
+
 Proper software package has been submitted.
 
 • Main Success Scenario: Manager receives accurate licenses and vulnerabilities information for the requested project package.
