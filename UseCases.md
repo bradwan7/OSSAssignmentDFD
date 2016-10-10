@@ -4,8 +4,10 @@
 
 • Goal in Context: The manager is able to determine licenses and vulnerabilities information after the request for the project information.
 • Stakeholders:
-	Manager: To receive clear and relevant licenses and vulnerabilities project information.
-	Developer: To provide the relevant software package.
+
+   Manager: To receive clear and relevant licenses and vulnerabilities project information.
+
+   Developer: To provide the relevant software package.
 
 • Preconditions:
 	
