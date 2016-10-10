@@ -52,18 +52,29 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
---Title: Determine policy documents
--Primary actor: Manager
--Goal in Context: The managerr is able to determine policy documents.
--Stakeholders:
-  --Manager: To recieve clear and relevant policy documents information.
-  --Developer: To provide the relevant software package.
--Preconditions:
-  --Relevant package information is in policy documents.
-  --Proper software package has been submitted.
--Main Success Scenario: Manager recieves accurate policy documents information for the requested package.
--Failed End Conditions: Manager recieves inaccurate or invalid policy documents informatiom for the requested package.
--Trigger: Manager sends a request for the policy documents information.
+• Title: Determine policy documents
+
+• Primary actor: Manager
+
+• Goal in Context: The manager is able to determine policy documents.
+
+• Stakeholders:
+
+   Manager: To receive clear and relevant policy documents information.
+
+   Developer: To provide the relevant software package.
+
+• Preconditions:
+
+   Relevant package information is in policy documents.
+
+   Proper software package has been submitted.
+
+• Main Success Scenario: Manager receives accurate policy documents information for the requested package.
+
+• Failed End Conditions: Manager receives inaccurate or invalid policy documents information for the requested package.
+
+• Trigger: Manager sends a request for the policy documents information.
 
 
 
