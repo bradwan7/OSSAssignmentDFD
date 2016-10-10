@@ -40,9 +40,9 @@
 -Trigger: Manager sends a request for the policy documents information.
 
 
-•	Title: Determine project licenses and vulnerabilities information
-•	Primary actor: Manager
-•	Goal in Context: The manager is able to determine licenses and vulnerabilities information after the request for the project information.
+•	Title: Determine project licenses and vulnerabilities information/n
+•	Primary actor: Manager/n
+•	Goal in Context: The manager is able to determine licenses and vulnerabilities information after the request for the project information./n
 •	Stakeholders:
 •	Manager: To receive clear and relevant licenses and vulnerabilities project information.
 •	Developer: To provide the relevant software package.
