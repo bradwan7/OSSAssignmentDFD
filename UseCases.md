@@ -6,9 +6,9 @@
 
 • Stakeholders:
 
-   -Manager: To receive clear and relevant licenses and vulnerabilities project information.
+   -Manager: To receive clear and relevant project information.
 
-   -Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package and to receive clear and relevant project information.
 
 • Preconditions:
 	
@@ -33,9 +33,9 @@
 
 • Stakeholders:
 
-   -Manager: To receive clear and relevant licenses and vulnerabilities project information.
+   -Manager: To receive clear and relevant project information.
    
-   -Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package and to receive clear and relevant project information.
 
 • Preconditions:
 
@@ -60,13 +60,13 @@
 
 • Stakeholders:
 
-   -Manager: To receive clear and relevant policy documents information.
+   -Manager: To receive clear and relevant project information.
 
-   -Developer: To provide the relevant software package.
+   -Developer: To provide the relevant software package and to receive clear and relevant project information.
 
 • Preconditions:
 
-   -Relevant package information is in policy documents.
+   -Relevant package information is in policy documents database.
 
    -Proper software package has been submitted.
 
@@ -77,15 +77,28 @@
 • Trigger: Manager sends a request for the policy documents information.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
-1. The Mananger can request to add policy documents.
+• Title: Determine policy documents
 
-2. The Manager can modify policy documents.
+• Primary actor: Developer
 
-3. The developer can request licenses and vulnerabilities.
+• Goal in Context: The developer is able to determine policy documents.
 
-4. The developer can request policy documents.
+• Stakeholders:
 
-5. Manager can request policy documents.
+   -Manager: To receive clear and relevant project information.
 
-6. Developer can send a software package to be checked for licenses and vulnerabilities.
+   -Developer: To provide the relevant software package and to receive clear and relevant project information.
+
+• Preconditions:
+
+   -Relevant package information is in policy documents database.
+
+   -Proper software package has been submitted.
+
+• Main Success Scenario: Developer receives accurate policy documents information for the requested package.
+
+• Failed End Conditions: Developer receives inaccurate or invalid policy documents information for the requested package.
+
+• Trigger: Developer sends a request for the policy documents information.
