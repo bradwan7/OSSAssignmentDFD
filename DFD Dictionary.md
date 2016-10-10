@@ -37,3 +37,7 @@
 19. Results of Requested Policy Documents: The results of the requested policy documents.
 
 20. Policy DB: A database that holds the policy documents.
+
+21. Request for Project Licenses and Vulnerabilities Information: The request for project licenses and vulnverabilities information.
+
+22. Results of Project Licenses and Vulnerabilities information: The results of the of the requested project licenses and vulnverabilities information.
