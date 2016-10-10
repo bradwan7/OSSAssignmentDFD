@@ -54,4 +54,4 @@
 
 - NIST DB: A database for the vulnerabilities.
 
-- Policy DB: A databse for the policy documents.
+- Policy DB: A database for the policy documents.
