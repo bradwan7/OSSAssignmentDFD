@@ -1,10 +1,10 @@
-# Entities
+## Entities
 
 - Developer: The individual who submits the software package.
 
 - Manager: The individual who manages the process.
 
-# Processes
+## Processes
 
 - Manage Software Package for License and Vulnerabilities Scanning: The process were the software package that is sent by the developer gets sent to be checked for licenses and vulnerabilities.
 
@@ -18,7 +18,7 @@
 
 - Get Policy: Gets the policy documents.
 
-# Data Flows
+## Data Flows
 
 - Software Package: The file that contains licenses and vulnerabilities.
 
@@ -50,7 +50,7 @@
 
 - Request to Add Policy Documents: The request to add policy documents.
 
-# Data Stores
+## Data Stores
 
 - NIST DB: A database for the vulnerabilities.
 
