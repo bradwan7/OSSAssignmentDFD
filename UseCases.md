@@ -8,6 +8,7 @@
 	Developer: To provide the relevant software package.
 
 • Preconditions:
+
 	Relevant package information is in the licenses and vulnerabilities.
 	Proper software package has been submitted.
 
