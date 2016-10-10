@@ -1,43 +1,57 @@
-1. Developer: The individual who submits the softwar package.
+# Entities
 
-2. Software Package: The file that conatains licesnces and vulnarbilities.
+- Developer: The individual who submits the software package.
 
-3. Licenses and Vulnerabilites Results: The results of licences and vulnerabilities.
+- Manager: The individual who manages the process.
 
-4. Manage Sofware Package for License and Vulnerabilities Scanning: The process were the software package that is sent by the developer gets sent to be checked for licenses and vulnerabilities.
+# Processes
 
-5. Check for Vulnerabilites: A process that checks the software package for vulnerabilites.
+- Manage Software Package for License and Vulnerabilities Scanning: The process were the software package that is sent by the developer gets sent to be checked for licenses and vulnerabilities.
 
-6. Scan Software Package for Licences: A process that checks the software package for licenses.
+- Check for Vulnerabilities: A process that checks the software package for vulnerabilities.
 
-7. Software Package Licensing Results: The licensing reults from the software package.
+- Scan Software Package for Licenses: A process that checks the software package for licenses.
 
-8. Vulnerabilities Results: The vulerability results from the software package.
+- Manage Policy: The process were policy documents gets modified or add policy documents.
 
-9. NIST DB: A database that holds the vulnerabilities.
+- Get Licenses and Vulnerabilities Information: A process that gets the licenses and vulnerabilities information.
 
-10. Licenses and Vulnerabilities DB: A database that holds the licenses and vulnerabilities.
+- Get Policy: Gets the policy documents.
 
-11. Request for Licenses and Vulnerabilities Information: A request to retrieve the licenses and vulnerabilities information.
+# Data Flows
 
-12. Get Licenses and Vulnerabilities Information: A process that gets the licenses and vulnerabilities information.
+- Software Package: The file that contains licenses and vulnerabilities.
 
-13. Manager: The individual who manages the process.
+- Licenses and Vulnerabilities Results: The results of licenses and vulnerabilities.
 
-14. Request to Add Policy Documents: The request to add policy documents.
+- Software Package name: The software package name that gets sent to the NIST DB.
 
-15. Request to Modify Policy Documents: The request to modify policy documents.
+- Vulnerability Results: The vulnerability results from the software package.
 
-16. Results of Modified and Add Policy Documents: The results of the requested modify and add policy documents.
+- Software Package Licensing Results: The licensing results from the software package.
 
-17. Get Policy: Gets the policy docouments.
+- Results of Licenses and Vulnerabilities Information: The results of licenses and Vulnerabilities information.
 
-18. Request Policy Documents: The request of policy documents.
+- Request for Licenses and Vulnerabilities Information: The results of licenses and Vulnerabilities information.
 
-19. Results of Requested Policy Documents: The results of the requested policy documents.
+- Results for Project Licenses and Vulnerabilities Information: The results of project licenses and Vulnerabilities information.
 
-20. Policy DB: A database that holds the policy documents.
+- Request of Project Licenses and Vulnerabilities Information: The request for project licenses and vulnerabilities.
 
-21. Request for Project Licenses and Vulnerabilities Information: The request for project licenses and vulnverabilities information.
+- Results of Requested Policy Documents: The results of the requested policy documents.
 
-22. Results of Project Licenses and Vulnerabilities information: The results of the of the requested project licenses and vulnverabilities information.
+- Request Policy Documents: The request of policy documents.
+
+- Request to Modify Policy Documents: The request to modify policy documents.
+
+- Request to Add Policy Documents: The request to add policy documents.
+
+- Results of Modified and Add Policy Documents: The results of the modified and added policy documents.
+
+- Request to Add Policy Documents: The request to add policy documents.
+
+# Data Stores
+
+- NIST DB: A database for the vulnerabilities.
+
+- Policy DB: A databse for the policy documents.
